@@ -2,7 +2,8 @@
 
 ###
 
-<h2 align="left">Python Develper <br>Estudo java, Python e iniciando inglês.<br>Querendo ser aperfeiçoar na área com foco em descktop e automação.<br>Também com foco em aprender coisas novas.<br>Em busca do primeiro emprego na área.</h2>
+<h2 align="left">Python Develper <br>Java Develper
+
 
 ###
 
