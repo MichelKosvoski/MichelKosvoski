@@ -2,8 +2,7 @@
 
 ###
 
-<h2 align="left">Python Develper <br>Java Develper
-
+<h1 align="left">hi, sou Michel estou cursando engenharia de software na Unigran Dourados/MS sou um desenvolvedor  esforçado tento aprender tudo de um pouco, mais com intuito de buscar uma vaga no mercado e crescer na carreira, eu adoro fazer system desktop e web e futuramente quero aprender fazer jogos.<br>Desenvolvimento com foco desktop, e web.<br><br>Desktop: Faço system de gestão da empresa.<br><br>Web: Foco em fazer loja online.</h1>
 
 ###
 
@@ -15,6 +14,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
 ###
@@ -54,5 +65,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/MichelKosvoski/MichelKosvoski/output/snake.svg" alt="Snake animation" />
 
 ###
