@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">hi, sou Michel estou cursando engenharia de software na Unigran Dourados/MS sou um desenvolvedor  esforçado tento aprender tudo de um pouco, mais com intuito de buscar uma vaga no mercado e crescer na carreira, eu adoro fazer system desktop e web e futuramente quero aprender fazer jogos.<br>Desenvolvimento com foco desktop, e web.<br><br>Desktop: Faço system de gestão da empresa.<br><br>Web: Foco em fazer loja online.</h1>
+<h1 align="left">hi, sou Michel um desenvolvedor  esforçado tento aprender tudo de um pouco, eu adoro fazer system desktop e web e futuramente quero aprender fazer jogos,assi melhorando minha lógica de programação<br>Desenvolvimento com foco desktop, e web.<br><br>Desktop: Faço system de gestão da empresa.<br><br>Web: Foco em fazer loja online.</h1>
 
 ###
 
