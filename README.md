@@ -1,8 +1,8 @@
-<h1 align="center" style="font-size: 60px;">👋 Olá, eu sou o Michel!</h1>
+<h1 align="center" style="font-size: 400px;">👋 Olá, eu sou o Michel!</h1>
 
-<h2 align="center" style="font-size: 35px;">
+<h2 align="center" style="font-size: 170px;">
 Sou um <strong>DESENVOLVEDOR</strong> apaixonado por criar sistemas! 🚀<br>
-<strong>Desktop</strong> e <strong>Web</strong> são meu foco principal.<br>
+Desktop e Web são meu foco principal.<br>
 Adoro desafios e evoluir minha lógica de programação.<br>
 </h2>
 
