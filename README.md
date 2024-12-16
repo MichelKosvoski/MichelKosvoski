@@ -1,6 +1,6 @@
-<h1 align="center" style="font-size: 50px;">👋 Olá, eu sou o Michel!</h1>
+<h1 align="center" style="font-size: 90px;">👋 Olá, eu sou o Michel!</h1>
 
-<p align="center" style="font-size: 20px;">
+<p align="center" style="font-size: 50px;">
 Sou um desenvolvedor <strong>focado</strong> e apaixonado por tecnologia! 🚀<br>
 Tenho experiência no desenvolvimento de sistemas <strong>Desktop</strong> e <strong>Web</strong>, buscando sempre evoluir e enfrentar novos desafios.
 </p>
