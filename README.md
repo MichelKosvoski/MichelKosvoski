@@ -1,16 +1,19 @@
-<h2 align="left">👤 Bio:</h2>
+<h2 align="left" style="font-family: 'Inter', sans-serif; font-size: 30px;">👤 Bio:</h2>
 
 ###
 
-<h1 align="left">Oi, eu sou o Michel 👋</h1>
+<h1 align="left" style="font-family: 'Inter', sans-serif; font-size: 50px;">Oi, eu sou o Michel 👋</h1>
 
-<p align="left">
+<p align="left" style="font-family: 'Inter', sans-serif; font-size: 22px; line-height: 1.6;">
 Sou um desenvolvedor dedicado, sempre buscando aprender um pouco de tudo! Gosto de criar sistemas tanto para <strong>Desktop</strong> quanto para <strong>Web</strong>, aprimorando cada vez mais minha lógica de programação.
 </p>
 
-- 💻 **Desktop**: Desenvolvimento de sistemas de gestão para empresas.  
-- 🌐 **Web**: Foco em criação de lojas online e sistemas dinâmicos.  
-- 🎯 Buscando sempre novos desafios e aprimoramento contínuo.
+<ul style="font-family: 'Inter', sans-serif; font-size: 20px;">
+  <li>💻 <strong>Desktop</strong>: Desenvolvimento de sistemas de gestão para empresas.</li>
+  <li>🌐 <strong>Web</strong>: Foco em criação de lojas online e sistemas dinâmicos.</li>
+  <li>🎯 Buscando sempre novos desafios e aprimoramento contínuo.</li>
+</ul>
+
 
 ---
 
