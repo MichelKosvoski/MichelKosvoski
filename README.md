@@ -34,7 +34,6 @@ Gosto de criar sistemas tanto para **Desktop** quanto para **Web**, aprimorando 
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="NestJS"/>
 </p>
 
 
